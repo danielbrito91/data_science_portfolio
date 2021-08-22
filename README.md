@@ -9,7 +9,7 @@ Portfolio with my data science projects completed academic, self-learning, and h
 ## Personal projects
 ### Machine Learning
 
-- [Fantano doesn’t like to dance: a classification model on Needle Drop’s reviews](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/): A classification model to predict if an album reviewed by The Needle Drop would get a high score.
+- [Fantano doesn’t like to dance - a classification model on Needle Drop’s reviews](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/): A classification model to predict if an album reviewed by The Needle Drop would get a high score.
 
 _Tools: tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
 
