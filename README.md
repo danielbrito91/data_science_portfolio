@@ -3,7 +3,7 @@
 Portfolio with my data science projects completed academic, self-learning, and hobby purposes. 
 
 **Links:**
-* [Website](https://danielbrito.netlify.app/)
+* [Website](https://danielbrito.me/)
 * [LinkedIn](https://www.linkedin.com/in/danieloliveiradebrito/)
 
 ## Personal projects
