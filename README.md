@@ -13,11 +13,6 @@ Portfolio with my data science projects completed academic, self-learning, and h
 
 _Tools: tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
 
-### Kaggle
-- [Titanic Survival with tidymodels](https://www.kaggle.com/danielbrito/titanic-survival-with-tidymodels): A classification model to predict survival on the Titanic.
-
-_Tools: tidyverse, tidymodels_
-
 ---
 
 ## About me
