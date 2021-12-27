@@ -13,6 +13,9 @@ Portfolio with my data science projects completed academic, self-learning, and h
 
 _Tools: tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
 
+## Flask
+- [Glucose monitoring](https://glicose-monit.herokuapp.com/): A web app that helps the user to manage his/her blood glucose levels. 
+
 ---
 
 ## About me
