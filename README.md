@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science and Data Analytics Portfolio
 
 Portfolio with my data science projects completed academic, self-learning, and hobby purposes. 
 
@@ -22,4 +22,4 @@ _Tools: Flask, Heroku, SQLite, Pandas_
 
 ## About me
 
-I'm Daniel Brito, an Environmental Engineer focused on Data Science, Machine Learning, R and Python.
+I'm Daniel Brito, an Environmental Engineer focused on Data Analytics, Data Science, Machine Learning, R and Python.
