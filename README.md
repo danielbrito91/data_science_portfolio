@@ -26,4 +26,4 @@ _Tools: Python, Flask, Heroku, SQLite, Pandas_
 
 ## About me
 
-I'm Daniel Brito, an Environmental Engineer focused on Data Analytics, Data Science, Machine Learning, R and Python.
+I'm Daniel Brito, an Environmental Engineer focused on Data Science and Machine Learning.
