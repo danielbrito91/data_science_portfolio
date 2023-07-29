@@ -16,7 +16,7 @@ _Tools: Python: Google Earth Engine, Pandas, XGBoost, scikit-learn, streamlit, D
 _Tools: R, Python, tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
 
 ### Statistical analysis
-- [RESEMER](https://github.com/danielbrito91/resemer): Inferencial analysis for the publication "Emergency Medicine Residency in Brazil: which factors influence residents' safety in procedures?" presented at CBMEDE 2022. The research includes an analysis of the factors associated with the self-perceived confidence of emergency medicine residents in Brazil while performing different procedures, categorized as very unsafe / unsafe / neutral / safe or very safe.
+- [RESEMER](https://github.com/danielbrito91/resemer): Inferencial analysis for the publication "Emergency Medicine Residency in Brazil: which factors influence residents' confidence in procedures?" presented at CBMEDE 2022.
 
 _Tools: Python: pandas, R: MASS, sjPlot_
 
