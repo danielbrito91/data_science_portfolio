@@ -9,9 +9,7 @@ Portfolio with my data science projects completed academic, self-learning, and h
 ## Personal projects
 ### Machine Learning
 
-- [Cyanobacteria monitoring](https://github.com/danielbrito91/cyanobacteria-monitoring): First, to increase the volume of data, I extracted data from Google Earth Engine API and trained a machine learning model to measure the cyanobacteria concentration of Guaíba Lake using the health surveillance data as the target.
-
-https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/
+- [Cyanobacteria monitoring](https://github.com/danielbrito91/cyanobacteria-monitoring): First, to increase the volume of data, I extracted data from Google Earth Engine API and trained a machine learning model to measure the cyanobacteria concentration of Guaíba Lake using the health surveillance data as the target. The results were [deployed on Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
 
 _Tools: Python: Google Earth Engine, Pandas, XGBoost, scikit-learn, streamlit, DVC, AWS S3_
 
