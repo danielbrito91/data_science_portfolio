@@ -7,7 +7,6 @@ Portfolio with my data science projects completed academic, self-learning, and h
 
 ## Personal projects
 ### Machine Learning
-
 - [Cyanobacteria monitoring](https://github.com/danielbrito91/cyanobacteria-monitoring): I extracted data from Google Earth Engine API and trained a machine learning model to measure the cyanobacteria concentration of Guaíba Lake using the health surveillance data as the target. The results were [deployed on Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
 
 _Tools: Python: Google Earth Engine, Pandas, XGBoost, scikit-learn, streamlit, DVC, AWS S3_
@@ -15,6 +14,11 @@ _Tools: Python: Google Earth Engine, Pandas, XGBoost, scikit-learn, streamlit, D
 - [Fantano doesn’t like to dance - a classification model on Needle Drop’s reviews](https://danielbrito.me/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/): A classification model to predict if an album reviewed by The Needle Drop would get a high score.
 
 _Tools: R, Python, tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
+
+### Statistical analysis
+- [RESEMER](https://github.com/danielbrito91/resemer): Inferencial analysis for the publication "Emergency Medicine Residency in Brazil: which factors influence residents' safety in procedures?" presented at CBMEDE 2022. The research includes an analysis of the factors associated with the self-perceived confidence of emergency medicine residents in Brazil while performing different procedures, categorized as very unsafe / unsafe / neutral / safe or very safe.
+
+_Tools: Python: pandas, R: MASS, sjPlot_
 
 ### Flask
 - [Glucose monitoring](https://glicose-monit.herokuapp.com/): A web app that helps the user to manage his/her blood glucose levels (CS50 final project)
