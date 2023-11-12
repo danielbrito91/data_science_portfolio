@@ -11,7 +11,7 @@ Portfolio with my data science projects completed academic, self-learning, and h
 
 _Tools: Python: Google Earth Engine, Pandas, XGBoost, scikit-learn, streamlit, DVC, AWS S3_
 
-- [Fantano doesn’t like to dance - a classification model on Needle Drop’s reviews](https://danielbrito.me/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/): A classification model to predict if an album reviewed by The Needle Drop would get a high score.
+- [Fantano doesn’t like to dance - a classification model on Needle Drop’s reviews](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/): A classification model to predict if an album reviewed by The Needle Drop would get a high score.
 
 _Tools: R, Python, tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
 
@@ -19,11 +19,6 @@ _Tools: R, Python, tidyverse, reticulate, scikit-learn, Pandas, NumPy, Spotipy_
 - [RESEMER](https://github.com/danielbrito91/resemer): Inferencial analysis for the publication "Emergency Medicine Residency in Brazil: which factors influence residents' confidence in procedures?" presented at CBMEDE 2022.
 
 _Tools: Python: pandas, R: MASS, sjPlot_
-
-### Flask
-- [Glucose monitoring](https://glicose-monit.herokuapp.com/): A web app that helps the user to manage his/her blood glucose levels (CS50 final project)
-
-_Tools: Python, Flask, Heroku, SQLite, Pandas_
 
 ---
 
